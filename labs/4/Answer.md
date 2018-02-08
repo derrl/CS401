@@ -2,7 +2,7 @@
 
 - The Big-O of MethodA is: &ensp;&ensp; $\qquad\qquad n^3$
 
-- The Big-O of MethodB is: &nbsp;&emsp;$\qquad\qquad n^2$
+- The Big-O of MethodB is: &nbsp;&emsp;$\qquad\qquad n$
 
 - The Big-O of MethodC is: $\quad 100n\log_2 n \sim n \log n$
 
