@@ -1,4 +1,4 @@
-##Coupon Inventory System
+## Coupon Inventory System
 
 This program is a inventory system, it have some basic functions, such like searching, storing, list, modifying etc.
 
